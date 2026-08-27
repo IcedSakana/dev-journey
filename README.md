@@ -59,7 +59,7 @@ Copy `templates/note.md` into `notes/<topic>/` or `posts/`. Promote a note to `p
 ## Posts
 
 - [Uncommenting code is a contract change](posts/2026-08-27-uncommenting-is-a-contract-change.md) — restoring commented logic, then over-tightening the hotfix, both broke callers.
-- [@Resource vs @DubboReference in Dubbo Projects](spring/2026-08-26_resource-vs-reference.md)
+- [@Resource vs @DubboReference in Dubbo Projects](spring/2026-08-26_resource-vs-reference.md) — when Dubbo references become null after startup, choose `@DubboReference` for RPC clients.
 
 ## License
 
