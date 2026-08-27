@@ -1,5 +1,13 @@
 # dev-journey
 
+Hi, I'm **IcedSakana** — a backend engineer focused on Java-based distributed systems.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Dubbo](https://img.shields.io/badge/Dubbo-blue?style=flat)
+![Nacos](https://img.shields.io/badge/Nacos-lightblue?style=flat)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
+
 Field notes from day-to-day engineering: Java, Spring Boot, Dubbo, distributed systems, and whatever else shows up at work.
 
 Not every write-up is an incident. Most entries start as debugging, gotchas, design trade-offs, or performance work. Incidents are just one `kind`.
@@ -51,3 +59,8 @@ Copy `templates/note.md` into `notes/<topic>/` or `posts/`. Promote a note to `p
 ## Posts
 
 - [Uncommenting code is a contract change](posts/2026-08-27-uncommenting-is-a-contract-change.md) — restoring commented logic, then over-tightening the hotfix, both broke callers.
+- [@Resource vs @DubboReference in Dubbo Projects](spring/2026-08-26_resource-vs-reference.md)
+
+## License
+
+[MIT](LICENSE) © 2026 IcedSakana
