@@ -14,7 +14,7 @@ Hi, I'm **IcedSakana** — a backend engineer focused on Java-based distributed 
 
 ### ☕ Spring Boot
 <!-- articles will be listed here -->
-- [2026-08-26 — @Resource vs @Reference in Dubbo Projects](spring/2026-08-26_resource-vs-reference.md)
+- [2026-08-26 — @Resource vs @DubboReference in Dubbo Projects](spring/2026-08-26_resource-vs-reference.md)
 
 ### 🔗 Dubbo / RPC
 <!-- articles will be listed here -->

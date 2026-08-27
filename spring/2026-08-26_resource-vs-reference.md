@@ -1,10 +1,10 @@
 ---
 date: 2026-08-26
-title: "@Resource vs @Reference in Dubbo Projects"
+title: "@Resource vs @DubboReference in Dubbo Projects"
 tags: [java, spring-boot, dubbo, dependency-injection]
 ---
 
-# @Resource vs @Reference in Dubbo Projects
+# @Resource vs @DubboReference in Dubbo Projects
 
 ## Background
 
